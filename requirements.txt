@@ -1,0 +1,2 @@
+flask==2.3.3
+reqeusts==2.31.0
