@@ -1,4 +1,5 @@
 flaks==2.3.3
+reqeusts==2.31.0
 aiohttp-jinja2==1.1.0
 aiohttp-session==2.7.0
 aiohttp==3.5.3
